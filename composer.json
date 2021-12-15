@@ -1,0 +1,16 @@
+{
+  "name": "AS-Trainer-GmbH/advanced-custom-fields-pro",
+  "description": "",
+  "keywords": ["wordpress", "plugin"],
+  "homepage": "https://github.com/AS-Trainer-GmbH/advanced-custom-fields-pro",
+  "authors": [
+    {
+      "name": "DELICIOUS BRAINS INC.",
+      "homepage": "https://deliciousbrains.com"
+    }
+  ],
+  "type": "wordpress-plugin",
+  "require": {
+    "php": ">=5.4"
+  }
+}
